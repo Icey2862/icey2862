@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Ojeda</h1>
 <h3 align="center">I'm a Front End developer student at CoderHouse</h3>
 
-- 🔭 I’m currently working on [ICEShop - e-commerce](https://github.com/Icey2862/E-commerce-ICEShop)
+- 🔭 I’m currently working on [ICEShop - e-commerce](https://github.com/Icey2862/Ecomerce-Iceshop)
 
 - 🌱 I’m currently learning **JavaScript**
 

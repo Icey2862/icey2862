@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ICEShop - e-commerce](https://github.com/Icey2862/Ecomerce-Iceshop)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **b.n.ojeda@hotmail.com**
 
